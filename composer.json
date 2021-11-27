@@ -1,0 +1,16 @@
+{
+    "name": "initstudio/core",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Initstudio\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bondar Maksim",
+            "email": "max@initstudio.ru"
+        }
+    ],
+    "require": {}
+}
