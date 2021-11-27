@@ -2,6 +2,7 @@
     "name": "initstudio/core",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Initstudio\\Core\\": "src/"
